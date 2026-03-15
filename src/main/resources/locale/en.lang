@@ -1,0 +1,40 @@
+[tile]
+
+[object]
+
+[item]
+gravebuster=Grave Buster
+alicegrimoire=Grimoire of Alice
+engineerswrench=Engineer's Wrench
+raygun=Ray Gun
+woodenclub=Wooden Club
+hailstorm=Hailstorm
+blunderbuss=Blunderbuss
+athame=Athame
+crystalcatcher=Crystal Catcher
+baitearring=Bait Earring
+feralwolffur=Feral Wolf Fur
+radicalglasses=Radical Glasses
+equibilirium=Equibilirium
+naginata=Naginata
+anubisblade=Anubis' Blade
+flametalisman=Flame Talisman
+
+[itemtooltip]
+engineerswrenchtip="Made with extra love"
+gravebustertip=Steals life from your target
+woodenclubtip=Packs a punch
+athametip=Killing mobs grants a 35% damage boost
+flametalismantip1=A shield will generate around you to absorb the next hit
+flametalismantip2=Upon absorbing a hit, unleash a powerful explosion
+flametalismantip3=45 second cooldown
+baitearringtip1=Increases fishing power by 5%
+baitearringtip2=Adds an extra fishing line
+anubisbladetip=Shoots explosive sun waves that deal 70% damage
+
+[mob]
+feralwolf=Feral Wolf
+
+[buff]
+athamebuff=Empowering Sacrifice
+flametalismancooldownbuff=Flame Talisman Cooldown
