@@ -23,6 +23,7 @@ import necesse.gfx.gameTexture.GameTextureSection;
 import necesse.level.maps.Level;
 import necesse.level.maps.LevelObjectHit;
 import necesse.level.maps.light.GameLight;
+import pandemonium.loaders.ModResources;
 
 import java.awt.*;
 import java.util.List;
@@ -87,7 +88,7 @@ public class EngineersWrenchProjectile extends BoomerangProjectile {
     }
 
     protected void playHitSound(float x, float y) {
-        SoundManager.playSound(Main.WrenchHit, SoundEffect.effect(x, y).volume(0.5F).pitch(0.9F));
+        SoundManager.playSound(ModResources.WrenchHit, SoundEffect.effect(x, y).volume(0.5F).pitch(0.9F));
     }
 
     protected Color getWallHitColor() {
